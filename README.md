@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sondos+Abbas;Machine+Learning+Learner;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&height=70&lines=Hi+there,+I'm+Sondos+Abbas;Machine+Learning+Learner;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 ## A little bit about me
