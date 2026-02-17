@@ -26,9 +26,8 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SondosAbbas&show_icons=true&theme=buefy" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SondosAbbas&layout=compact&theme=buefy" width="300" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=SondosAbbas&show_icons=true&theme=cobalt" alt="Sondos Stats" />
 </p>
 
 > NOTE: This is a GitHub metric based on the languages used in my repositories.
