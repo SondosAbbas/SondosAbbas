@@ -27,7 +27,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SondosAbbas&theme=default" alt="github stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SondosAbbas&theme=default" alt="Sondos Abbas Stats">
 </p>
 
 > NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric based on the languages used in my repositories.
