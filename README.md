@@ -13,9 +13,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Sondos+Abbas;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Building+AI+Solutions;Welcome+to+my+Portfolio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sondos+Abbas;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Building+AI+Solutions;Nice+to+meet+you." alt="Typing SVG" />
   </a>
 </p>
+
+---
 
 ## 🛠 Skills & Technologies
 
@@ -25,12 +27,24 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric based on the languages used in my repositories.
+---
 
+## 🎓 About Me
+* 🌱 I'm currently focused on mastering Machine Learning and Deep Learning.
+* ✍️ I enjoy building AI solutions that tackle real-world challenges.
+* ✉️ Feel free to connect with me for any collaboration!
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SondosAbbas&theme=default" alt="github stats"></br>
+</p>
+
+> NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric based on the languages used in my repositories.
 ---
 
 ## Latest Projects
