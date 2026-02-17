@@ -31,10 +31,9 @@
 
 ## Links
 
-<p align="center">
-  <a href="mailto:sonds.mahmed1@gmail.com">
-    <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/>
-  </a>
+<a href="mailto:sonds.mahmed1@gmail.com">
+  <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/>
+</a>
   
   <a href="https://www.linkedin.com/in/sondos-abbas5">
     <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/>
