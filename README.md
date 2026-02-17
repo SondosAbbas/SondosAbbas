@@ -23,16 +23,23 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-
-## Latest Projects
-
-- **IEEE-CIS Fraud Detection**: Building an advanced stacking architecture for financial security.
 ---
 
-## Links
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SondosAbbas&show_icons=true&theme=radical" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SondosAbbas&layout=compact&theme=radical" width="300" />
+</p>
+
+---
+
+## 🚀 Latest Projects
+- **IEEE-CIS Fraud Detection**: Building an advanced stacking architecture for financial security.
+
+---
 
 <h2 align="center">Links</h2>
-
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sonds.mahmed1@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/>
