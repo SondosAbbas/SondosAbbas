@@ -42,7 +42,7 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sondosmohammed5">
+  <a href="https://github.com/SondosAbbas">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github"/>
   </a>
 </p>
