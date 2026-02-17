@@ -32,7 +32,15 @@
 ## Links
 
 <p align="center">
-  <a href="mailto:sonds.mahmed1@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="www.linkedin.com/in/sondos-abbas5"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://github.com/sondosmohammed5"><img src="https://img.icons8.com/fluent/32/000000/github.png" alt="github"/></a>
+  <a href="mailto:sonds.mahmed1@gmail.com">
+    <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sondos-abbas5">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/>
+  </a>
+  
+  <a href="https://github.com/sondosmohammed5">
+    <img src="https://img.icons8.com/fluent/32/000000/github.png" alt="github"/>
+  </a>
 </p>
