@@ -1,50 +1,33 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&height=70&lines=Hi+there,+I'm+Sondos+Abbas;Machine+Learning+Learner;Deep+Learning+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Sondos+Abbas;Machine+Learning+Learner;Deep+Learning+Enthusiast;Nice+to+meet+you." alt="Typing SVG" />
   </a>
 </p>
-
-## A little bit about me
-
-🎓 &nbsp;I'm currently focused on mastering Machine Learning and Deep Learning algorithms. \
-🌱 &nbsp;I'm on track with learning more about Neural Networks, Computer Vision, and MLOps.\
-✍️ &nbsp;In my free time, I enjoy solving problems on Kaggle and exploring new AI research.\
-💬 &nbsp;Feel free to reach out to me for collaboration on AI projects or to discuss data science.\
-✉️ &nbsp;You can drop me an email at sonds.mahmed1@gmail.com! It will be a pleasure to connect with you.
 
 ---
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sondos+Abbas;Machine+Learning+Explorer;Deep+Learning+Enthusiast;Building+AI+Solutions;Nice+to+meet+you." alt="Typing SVG" />
-  </a>
-</p>
+## 🎓 About Me
+* 🚀 Currently focusing on mastering Machine Learning and Deep Learning algorithms.
+* 🧠 Studying Neural Networks, Computer Vision, and MLOps.
+* ✍️ In my free time, I enjoy solving challenges on Kaggle and exploring AI research.
+* ✉️ Feel free to reach out via email: sonds.mahmed1@gmail.com
 
 ---
 
 ## 🛠 Skills & Technologies
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-## 🎓 About Me
-* 🌱 I'm currently focused on mastering Machine Learning and Deep Learning.
-* ✍️ I enjoy building AI solutions that tackle real-world challenges.
-* ✉️ Feel free to connect with me for any collaboration!
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SondosAbbas&theme=default" alt="github stats"></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SondosAbbas&theme=default" alt="github stats">
 </p>
 
 > NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric based on the languages used in my repositories.
