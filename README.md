@@ -23,15 +23,6 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
----
-
-## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SondosAbbas&show_icons=true&theme=cobalt" alt="Sondos Stats" />
-</p>
-
-> NOTE: This is a GitHub metric based on the languages used in my repositories.
----
 
 ## Latest Projects
 
