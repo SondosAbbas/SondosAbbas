@@ -1,5 +1,6 @@
-![Sondos Abbas AI Journey](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Sondos Abbas | Machine Learning & Deep Learning Learner | AI Enthusiast | Future Data Scientist</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sondos+Abbas;Machine+Learning+Learner;Deep+Learning+Enthusiast" alt="Typing SVG" />
+</p>
 
 ## A little bit about me
 
