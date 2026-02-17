@@ -31,15 +31,18 @@
 
 ## Links
 
-<a href="mailto:sonds.mahmed1@gmail.com">
-  <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/>
-</a>
-  
-  <a href="https://www.linkedin.com/in/sondos-abbas5">
-    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/>
+<h2 align="center">Links</h2>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sonds.mahmed1@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/>
   </a>
-  
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sondos-abbas5">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/sondosmohammed5">
-    <img src="https://img.icons8.com/fluent/32/000000/github.png" alt="github"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github"/>
   </a>
 </p>
