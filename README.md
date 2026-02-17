@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SondosAbbas&show_icons=true&theme=radical" width="400" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SondosAbbas&layout=compact&theme=radical" width="300" />
-</p>
-
----
-
 ## 🚀 Latest Projects
 - **IEEE-CIS Fraud Detection**: Building an advanced stacking architecture for financial security.
 
